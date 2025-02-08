@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
 <h1 align="center">Hi 👋, I'm osama jammi</h1>
-<h3 align="center">A student in fpt genie informatique</h3>
+<h3 align="center">A student in ENSIASD système informatique</h3>
 <img align="right" alt="cpding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmXy69YzLGpXQPHvzqK837u_fkSiFu5cg7Q&usqp=CAU">
 
 

@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=560&height=70&duration=4000&lines=Hi!+I'm+Osama+Jammi+👋;Full-Stack+Developer+(Java+%2F+Angular);Spring+Boot+·+Angular+·+React+Native;Learning+SAP+%26+ERP+integration" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=560&height=70&duration=4000&lines=Hi!+I'm+Osama+Jammi+👋;Full-Stack+Developer+(Java+%2F+Angular);SAP+·+ABAP+·+Smartforms;ERP+%26+Enterprise+Applications" />
 </h1>
 
 <p align="center">
   🎓 Élève-ingénieur à <b>ENSIAS</b> — Systèmes Informatiques & Intelligence Artificielle<br/>
   💼 Développeur full-stack : <b>Spring Boot</b> · <b>Angular</b> · <b>React Native</b><br/>
-  🔄 En ce moment : intégration ERP (<b>Divalto</b>) & apprentissage de <b>SAP</b>
+  🔄 En ce moment : développement <b>SAP</b> — <b>ABAP</b> & <b>Smartforms</b>
 </p>
 
 <p align="center">
@@ -18,12 +18,10 @@
 
 ## 🚀 Ce sur quoi je travaille
 
-### 🚚 Transport-Livraison (DivNet) — plateforme de gestion de transport & livraison
-Application complète pour piloter les livraisons de chantier, du back-office au chauffeur sur le terrain.
-- **Backend** : Spring Boot, Spring Security + **Keycloak/OAuth2**, REST, **Apache POI** (exports Excel), **ZXing** (QR codes)
-- **Web (admin)** : Angular + TypeScript, cartes **Leaflet** (suivi GPS temps réel)
-- **Mobile (chauffeurs)** : React Native + Expo, scan QR, GPS, notifications push
-- **Données** : Microsoft SQL Server, intégration **ERP Divalto / GAP**
+### 🟦 Développement SAP — ABAP & Smartforms
+- 🧾 Création et personnalisation de formulaires **Smartforms** (éditions / impressions : bons, factures, états…)
+- 💻 Développement **ABAP** (programmes, reports)
+- 📦 Modules fonctionnels : **MM** (achats), **SD** (ventes), **FI/CO** (finance), **WM** (entrepôt), **TM** (transport)
 
 ---
 
@@ -49,15 +47,19 @@ Application complète pour piloter les livraisons de chantier, du back-office au
 
 ---
 
-## 🟦 SAP & ERP (en cours d'apprentissage)
+## 🧩 SAP & ERP
+
+**SAP**
 
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![ABAP](https://img.shields.io/badge/ABAP-0A6ED1?style=for-the-badge&logo=sap&logoColor=white)
-![Divalto](https://img.shields.io/badge/Divalto_ERP-1B5E20?style=for-the-badge&logoColor=white)
+![SAP Smartforms](https://img.shields.io/badge/SAP_Smartforms-1B6EC2?style=for-the-badge&logo=sap&logoColor=white)
 
-- 📦 Modules fonctionnels : **MM** (achats), **SD** (ventes), **FI/CO** (finance), **WM** (entrepôt), **TM** (transport)
-- 💻 Développement **ABAP** & intégration SAP ↔ backend Java (BAPI / IDoc / OData)
-- 🔁 Comparaison **SAP vs Divalto** sur des cas réels de transport / logistique
+**ERP utilisés**
+
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Divalto](https://img.shields.io/badge/Divalto-1B5E20?style=for-the-badge&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ---
 

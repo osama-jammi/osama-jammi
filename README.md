@@ -1,15 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=560&height=70&duration=4000&lines=Hi!+I'm+Osama+Jammi+👋;Full-Stack+Developer+(Java+%2F+Angular);SAP+·+ABAP+·+Smartforms;ERP+%26+Enterprise+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=620&height=70&duration=4000&lines=Hi!+I'm+Osama+Jammi+👋;Full-Stack+Developer+(Java+%2F+Angular);SAP+·+ABAP+·+RAP+·+CDS+·+Fiori;ERP+%26+Enterprise+Applications" />
 </h1>
 
 <p align="center">
-  🎓 Élève-ingénieur à <b>ENSIAS</b> — Systèmes Informatiques & Intelligence Artificielle<br/>
+  🎓 Élève-ingénieur à <b>ENSIASD</b> — Intelligence Artificielle & Sciences des Données<br/>
   💼 Développeur full-stack : <b>Spring Boot</b> · <b>Angular</b> · <b>React Native</b><br/>
-  🔄 En ce moment : développement <b>SAP</b> — <b>ABAP</b> & <b>Smartforms</b>
+  🔄 En ce moment : développement <b>SAP</b> — <b>ABAP</b>, <b>RAP / CDS</b> & <b>Smartforms</b>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/osama-jammi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jammi-osama"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/osama-jammi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:osama.jammi@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -18,10 +18,14 @@
 
 ## 🚀 Ce sur quoi je travaille
 
-### 🟦 Développement SAP — ABAP & Smartforms
-- 🧾 Création et personnalisation de formulaires **Smartforms** (éditions / impressions : bons, factures, états…)
-- 💻 Développement **ABAP** (programmes, reports)
-- 📦 Modules fonctionnels : **MM** (achats), **SD** (ventes), **FI/CO** (finance), **WM** (entrepôt), **TM** (transport)
+### 🟦 Développement SAP — ABAP, RAP / CDS & Smartforms
+- 🧱 **ABAP Objects** : programmation orientée objet (classes, interfaces, design patterns)
+- 🗂️ **Core Data Services (CDS)** : vues, annotations, projections, modélisation de données
+- ⚙️ **RAP** (ABAP RESTful Application Programming Model) : services OData, comportements (behaviors)
+- 🌐 **OData v4** & **SAP Fiori** : exposition de services et applications front-end SAP
+- 🧾 **Smartforms** : éditions / impressions (bons, factures, états…)
+- 💻 **ABAP** classique : programmes, reports, modules fonctionnels
+- 📦 Modules : **MM** (achats), **SD** (ventes), **FI/CO** (finance), **WM** (entrepôt), **TM** (transport)
 
 ---
 
@@ -49,11 +53,21 @@
 
 ## 🧩 SAP & ERP
 
-**SAP**
+**Développement SAP**
 
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![ABAP](https://img.shields.io/badge/ABAP-0A6ED1?style=for-the-badge&logo=sap&logoColor=white)
+![ABAP Objects](https://img.shields.io/badge/ABAP_Objects-0A6ED1?style=for-the-badge&logo=sap&logoColor=white)
+![CDS](https://img.shields.io/badge/CDS_Views-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![RAP](https://img.shields.io/badge/RAP-1B6EC2?style=for-the-badge&logo=sap&logoColor=white)
+![OData v4](https://img.shields.io/badge/OData_v4-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Fiori](https://img.shields.io/badge/SAP_Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP Smartforms](https://img.shields.io/badge/SAP_Smartforms-1B6EC2?style=for-the-badge&logo=sap&logoColor=white)
+
+**Processus métier (End-to-End)**
+
+![Order to Cash](https://img.shields.io/badge/Order_to_Cash_(O2C)-2E7D32?style=for-the-badge&logo=sap&logoColor=white)
+![Procure to Pay](https://img.shields.io/badge/Procure_to_Pay_(P2P)-6A1B9A?style=for-the-badge&logo=sap&logoColor=white)
+![Smartforms](https://img.shields.io/badge/Éditions_Smartforms-1B6EC2?style=for-the-badge&logo=sap&logoColor=white)
 
 **ERP utilisés**
 

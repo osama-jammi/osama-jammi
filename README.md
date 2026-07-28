@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
- ██████╗ ███████╗ █████╗ ███╗   ███╗ █████╗      ██╗ █████╗ ███╗   ███╗███╗   ███╗██╗
-██╔═══██╗██╔════╝██╔══██╗████╗ ████║██╔══██╗     ██║██╔══██╗████╗ ████║████╗ ████║██║
-██║   ██║███████╗███████║██╔████╔██║███████║     ██║███████║██╔████╔██║██╔████╔██║██║
-██║   ██║╚════██║██╔══██║██║╚██╔╝██║██╔══██║██   ██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██║
-╚██████╔╝███████║██║  ██║██║ ╚═╝ ██║██║  ██║╚█████╔╝██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║
- ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝
+ ██████╗ ███████╗ █████╗ ███╗   ███╗ █████╗           ██╗ █████╗ ███╗   ███╗███╗   ███╗██╗
+██╔═══██╗██╔════╝██╔══██╗████╗ ████║██╔══██╗          ██║██╔══██╗████╗ ████║████╗ ████║██║
+██║   ██║███████╗███████║██╔████╔██║███████║          ██║███████║██╔████╔██║██╔████╔██║██║
+██║   ██║╚════██║██╔══██║██║╚██╔╝██║██╔══██║     ██   ██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██║
+╚██████╔╝███████║██║  ██║██║ ╚═╝ ██║██║  ██║     ╚█████╔╝██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║
+ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝      ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝
 ```
 
 **Élève-ingénieur · IA & Data · Full-Stack · SAP ABAP**
@@ -62,14 +62,4 @@ modules   : MM · SD · FI/CO · WM · TM
 
 ---
 
-## Activité
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=osama-jammi&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=osama-jammi&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Profile views](https://komarev.com/ghpvc/?username=osama-jammi&label=Vues&color=58a6ff&style=flat-square)
-
-</div>
